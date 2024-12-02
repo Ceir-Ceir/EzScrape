@@ -1,0 +1,212 @@
+
+	1 Philadelphia, PA
+	2 San Antonio, TX
+	3 San Diego, CA
+	4 Dallas, TX
+	5 San Jose, CA
+	6 Austin, TX
+	7 Jacksonville, FL
+	8 Fort Worth, TX
+	9 Columbus, OH
+	10 Charlotte, NC
+	11 San Francisco, CA
+	12 Indianapolis, IN
+	13 Seattle, WA
+	14 Denver, CO
+	15 Washington, DC
+	16 Boston, MA
+	17 El Paso, TX
+	18 Nashville, TN
+	19 Detroit, MI
+	20 Oklahoma City, OK
+	21 Portland, OR
+	22 Las Vegas, NV
+	23 Memphis, TN
+	24 Louisville, KY
+	25 Baltimore, MD
+	26 Milwaukee, WI
+	27 Albuquerque, NM
+	28 Tucson, AZ
+	29 Fresno, CA
+	30 Sacramento, CA
+	31 Kansas City, MO
+	32 Mesa, AZ
+	33 Atlanta, GA
+	34 Omaha, NE
+	35 Colorado Springs, CO
+	36 Raleigh, NC
+	37 Miami, FL
+	38 Long Beach, CA
+	39 Virginia Beach, VA
+	40 Oakland, CA
+	41 Minneapolis, MN
+	42 Tulsa, OK
+	43 Arlington, TX
+	44 Tampa, FL
+	45 New Orleans, LA
+	46 Wichita, KS
+	47 Cleveland, OH
+	48 Bakersfield, CA
+	49 Aurora, CO
+	50 Honolulu, HI
+	51 Anaheim, CA
+	52 Santa Ana, CA
+	53 Riverside, CA
+	54 Corpus Christi, TX
+	55 Lexington, KY
+	56 Henderson, NV
+	57 Stockton, CA
+	58 St. Paul, MN
+	59 Cincinnati, OH
+	60 St. Louis, MO
+	61 Pittsburgh, PA
+	62 Greensboro, NC
+	63 Lincoln, NE
+	64 Anchorage, AK
+	65 Plano, TX
+	66 Orlando, FL
+	67 Irvine, CA
+	68 Newark, NJ
+	69 Durham, NC
+	70 Chula Vista, CA
+	71 Toledo, OH
+	72 Fort Wayne, IN
+	73 St. Petersburg, FL
+	74 Jersey City, NJ
+	75 Laredo, TX
+	76 Madison, WI
+	77 Chandler, AZ
+	78 Buffalo, NY
+	79 Lubbock, TX
+	80 Scottsdale, AZ
+	81 Reno, NV
+	82 Glendale, AZ
+	83 Norfolk, VA
+	84 Winston-Salem, NC
+	85 North Las Vegas, NV
+	86 Irvine, CA
+	87 Fremont, CA
+	88 Gilbert, AZ
+	89 Spokane, WA
+	90 Baton Rouge, LA
+	91 Richmond, VA
+	92 Boise, ID
+	93 Des Moines, IA
+	94 Montgomery, AL
+	95 Grand Rapids, MI
+	96 Akron, OH
+	97 Albany, NY
+	98 Alexandria, VA
+	99 Allentown, PA
+	100 Amarillo, TX
+	101 Ann Arbor, MI
+	102 Antioch, CA
+	103 Asheville, NC
+	104 Athens, GA
+	105 Atlantic City, NJ
+	106 Augusta, GA
+	107 Aurora, IL
+	108 Bakersfield, CA
+	109 Beaumont, TX
+	110 Bellingham, WA
+	111 Bend, OR
+	112 Billings, MT
+	113 Bloomington, IN
+	114 Boise City, ID
+	115 Bowling Green, KY
+	116 Bridgeport, CT
+	117 Brownsville, TX
+	118 Cape Coral, FL
+	119 Carson City, NV
+	120 Cedar Rapids, IA
+	121 Champaign, IL
+	122 Charleston, SC
+	123 Charleston, WV
+	124 Chattanooga, TN
+	125 Cheyenne, WY
+	126 Clarksville, TN
+	127 Clearwater, FL
+	128 Cleveland Heights, OH
+	129 College Station, TX
+	130 Columbia, SC
+	131 Columbia, MO
+	132 Columbus, GA
+	133 Concord, NH
+	134 Coral Springs, FL
+	135 Davenport, IA
+	136 Daytona Beach, FL
+	137 Deltona, FL
+	138 Denton, TX
+	139 Dothan, AL
+	140 Dover, DE
+	141 Duluth, MN
+	142 Durham, NC
+	143 Eau Claire, WI
+	144 Edinburg, TX
+	145 Elgin, IL
+	146 Elizabeth, NJ
+	147 Erie, PA
+	148 Escondido, CA
+	149 Eugene, OR
+	150 Evansville, IN
+	151 Fargo, ND
+	152 Fayetteville, AR
+	153 Fayetteville, NC
+	154 Flint, MI
+	155 Florence, SC
+	156 Fort Collins, CO
+	157 Fort Smith, AR
+	158 Fort Wayne, IN
+	159 Frederick, MD
+	160 Fremont, CA
+	161 Gainesville, FL
+	162 Galveston, TX
+	163 Garland, TX
+	164 Gastonia, NC
+	165 Glendale, CA
+	166 Grand Forks, ND
+	167 Green Bay, WI
+	168 Greenville, SC
+	169 Gulfport, MS
+	170 Hagerstown, MD
+	171 Hampton, VA
+	172 Harrisburg, PA
+	173 Hartford, CT
+	174 Hattiesburg, MS
+	175 Hialeah, FL
+	176 Hickory, NC
+	177 High Point, NC
+	178 Hollywood, FL
+	179 Hoover, AL
+	180 Hot Springs, AR
+	181 Huntsville, AL
+	182 Idaho Falls, ID
+	183 Independence, MO
+	184 Jackson, MS
+	185 Jacksonville, NC
+	186 Jamestown, NY
+	187 Janesville, WI
+	188 Jefferson City, MO
+	189 Joplin, MO
+	190 Kalamazoo, MI
+	191 Kearney, NE
+	192 Kenosha, WI
+	193 Killeen, TX
+	194 Kissimmee, FL
+	195 Knoxville, TN
+	196 Lafayette, LA
+	197 Laramie, WY
+	198 Largo, FL
+	199 Las Cruces, NM
+	200 Lawrence, KS
+	201 Lexington, SC
+	202 Lima, OH
+	203 Little Rock, AR
+	204 Livonia, MI
+	205 Lodi, CA
+	206 Longmont, CO
+	207	New York, NY
+	208	Los Angeles, CA
+	209	Chicago, IL
+	210	Houston, TX
+	211	Phoenix, AZ
